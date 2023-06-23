@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  logger:
+    image: htetlinmaung/logger
+    # build: .
+    ports:
+      - "7070:3000"
+    
