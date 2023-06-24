@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "code-alchemy": "^1.4.5",
-    "starless-logger": "^1.0.3"
+    "starless-logger": "^1.0.4"
   }
 }
